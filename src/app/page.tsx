@@ -456,7 +456,7 @@ export default function Home() {
             <p className="mt-5 max-w-xs text-sm leading-relaxed text-hairline/70">
               Independent digital strategy for growing businesses. No software resale, no commissions.
             </p>
-            <ul className="mt-8 flex gap-3">
+            <ul className="mt-5 flex gap-3 sm:mt-8">
               {SOCIALS.map((s) => (
                 <li key={s.name}>
                   <a
