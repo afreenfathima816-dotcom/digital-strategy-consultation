@@ -278,7 +278,7 @@ export default function Home() {
                 href={BOOKING_HREF}
                 className="flex-1 rounded-md border border-ink bg-ink px-3 py-3.5 text-center text-[0.68rem] tracking-[0.14em] whitespace-nowrap text-ivory uppercase transition-opacity duration-300 hover:opacity-75 sm:w-52 sm:flex-none sm:px-8 sm:py-4 sm:text-xs sm:tracking-[0.22em]"
               >
-                Book a call
+                call
               </a>
               <a
                 href="#process"
